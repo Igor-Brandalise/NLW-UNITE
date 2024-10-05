@@ -48,16 +48,12 @@
   
   .input-wrapper {
     flex: 1;
-  
     display: flex;
     align-items: center;
     gap: 12px;
-  
     border: var(--border);
     border-radius: 10px;
-  
     padding: 8px 12px;
-  
     font: 400 14px/150% 'Roboto', sans-serif;
     color: #C4C4CC;
   }
